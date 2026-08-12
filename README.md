@@ -16,6 +16,12 @@ This project was created as a practice project to apply Python fundamentals such
 - Clear terminal screen
 - Password generation using letters, digits, and symbols
 
+## ⚠️ Security Notice
+
+The `accounts.json` file is intentionally excluded from GitHub because it may contain sensitive account information.
+
+This project is for educational purposes and should not be used to store real passwords.
+
 ## 🛠️ Technologies
 
 - Python 3
